@@ -10,6 +10,7 @@ This project applies Optical Character Recognition (OCR) techniques to the Hoda 
 
 ## Requirements
 
+Download the dataset from one of that sources mentioned above.
 To run the notebook, you'll need the following Python libraries:
 
 - pandas
